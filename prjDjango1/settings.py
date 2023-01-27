@@ -25,7 +25,7 @@ SECRET_KEY = 'mYx9ksCKuPdRrsYkZKiBrnQQZb81PDpzgnW5CY75l8aYvJtfrQjACPwxJdZt'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['https://appprojdjango1.azurewebsites.net']
 
 
 # Application definition
